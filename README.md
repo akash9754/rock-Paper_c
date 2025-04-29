@@ -23,4 +23,4 @@ You play against the computer — first to pick between Rock, Paper, or Scissors
 1. Clone the repository or download the files:
 
    ```bash
-   git clone https://github.com/your-username/rock-paper-game.git
+   git clone https://akash9754.github.io/rock-Paper_c/.git
